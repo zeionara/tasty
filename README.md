@@ -1,5 +1,7 @@
 # Tasty
 
+![logo](assets/logo.png)
+
 Tasty - **ta**b **s**eparated **t**ables - a human-readable format for nested data serialization. The module allows to represent lists of objects with variable length in the following format:
 
 ```sh
@@ -38,7 +40,7 @@ Which corresponds to the following data (see `examples/main.py` for more details
 The module doesn't require any additional dependencies. To install from pypi, run the following command:
 
 ```sh
-pip install tasty
+pip install tastier
 ```
 
 ## Usage
