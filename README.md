@@ -1,6 +1,8 @@
 # Tasty
 
-![logo](assets/logo.png)
+<p align="center">
+    <img src="assets/logo.png"/>
+</p>
 
 Tasty - **ta**b **s**eparated **t**ables - a human-readable format for nested data serialization. The module allows to represent lists of objects with variable length in the following format:
 
